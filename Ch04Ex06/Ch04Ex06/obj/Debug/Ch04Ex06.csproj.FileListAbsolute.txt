@@ -1,0 +1,6 @@
+C:\Roman Visual Studio\Ch04Ex06\Ch04Ex06\obj\Debug\Ch04Ex06.csprojAssemblyReference.cache
+C:\Roman Visual Studio\Ch04Ex06\Ch04Ex06\bin\Debug\Ch04Ex06.exe.config
+C:\Roman Visual Studio\Ch04Ex06\Ch04Ex06\bin\Debug\Ch04Ex06.exe
+C:\Roman Visual Studio\Ch04Ex06\Ch04Ex06\bin\Debug\Ch04Ex06.pdb
+C:\Roman Visual Studio\Ch04Ex06\Ch04Ex06\obj\Debug\Ch04Ex06.exe
+C:\Roman Visual Studio\Ch04Ex06\Ch04Ex06\obj\Debug\Ch04Ex06.pdb
